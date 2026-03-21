@@ -2,9 +2,6 @@
 
 A modern, minimal React-based Expense Tracker application designed with a professional SaaS dashboard aesthetic.
 
-## 🔗 Live Demo
-https://expenly-react.netlify.app/
-
 ## ✨ Features
 - **Clean SaaS UI:** Professional, centered layout with card-style expense items.
 - **Add & Manage Expenses:** Easily track expenses with title, amount, category, and date.
